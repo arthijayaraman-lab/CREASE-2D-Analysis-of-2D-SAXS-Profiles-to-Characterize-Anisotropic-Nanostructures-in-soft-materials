@@ -26,4 +26,6 @@ To analyze 2D raw SAXS profiles we follow these steps.
 
 ![CREASE-2D identified structural features for experimental SAXS profiles](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/images/FigS7.png)
 
+NOTE: **We will be updating python version of structure generation soon.(Matlab codes are provided currently)**
+
 
