@@ -3,6 +3,9 @@
 
 ## Description:
 
+NOTE: **To generate structures now both matlab and python versions are available**
+
+
 CREASE-2D is a method implemented to analyze small angle scattering data without azimuthal averaging.CREASE-2D can identify orientational anisotropy in the structure along with other key structural parameters. Previously, we had developed CREASE-2D for insilico structures of ellipsoidal particle systems [To learn more check out our previous paper](https://pubs.acs.org/doi/10.1021/jacsau.4c00068). We have now extended our CREASE-2D workflow to SAXS profile from assembled dipeptide tube structures ![CREASE-2D](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/images/FigS1.png). 
 
 To analyze 2D raw SAXS profiles we follow these steps.
@@ -26,6 +29,5 @@ To analyze 2D raw SAXS profiles we follow these steps.
 
 ![CREASE-2D identified structural features for experimental SAXS profiles](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/images/FigS7.png)
 
-NOTE: **To generate structures now both matlab and python versions are available**
 
 
