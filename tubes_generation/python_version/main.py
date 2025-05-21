@@ -13,7 +13,7 @@ from calc_scatteringprofile import calc_scatteringprofile
 
 def main(params,restart,relaxmd,output):
     # Load kappa-costheta correlation data from matlabfiles directory
-    mat_data = scipy.io.loadmat("C:/Users/akepa/XGBoostAL/Finalized_codes/Structure Generation/PYTHON CODES/kappa_costheta_correlation.mat")
+    mat_data = scipy.io.loadmat("kappa_costheta_correlation.mat")
     kappa_costheta_correlation = np.asarray(mat_data['kappa_costheta_correlation'])
     cosconeangle = np.cos(np.asarray(params['herd_coneangle']) / 180 * np.pi)
 
