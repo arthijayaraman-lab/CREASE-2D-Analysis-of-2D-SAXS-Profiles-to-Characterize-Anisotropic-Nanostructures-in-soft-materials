@@ -27,9 +27,4 @@ To analyze 2D raw SAXS profiles we follow these steps.
 
 - Step4: Apply CREASE-2D workflow on raw SAXS Data
   - We show the 2 SAXS profiles obtained using dipeptide chemistries and solution conditions. These raw scattering profiles have to be preprocessed as described in the paper using these codes. The processed 2D scattering profiles are provided [here](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/tree/main/Experimental_data/process_experimental_data).
-  - For each scattering profile, we run the GA loop using [Exp_GA_py_script.py](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/Experimental_data/Exp_GA_py_script.py). After running 25 independent GA runs for each scattering profile, we obtain the dendrograms below.
-
-![CREASE-2D identified structural features for experimental SAXS profiles](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/images/FigS7.png)
-
-
-
+  - For each scattering profile, we run the GA loop using [Exp_GA_py_script.py](https://github.com/arthijayaraman-lab/CREASE-2D_Tubes_Exp_SAXS_Analysis/blob/main/Experimental_data/Exp_GA_py_script.py). After running 25 independent GA runs for each scattering profile, we show the results (Will be updated once paper is published).
