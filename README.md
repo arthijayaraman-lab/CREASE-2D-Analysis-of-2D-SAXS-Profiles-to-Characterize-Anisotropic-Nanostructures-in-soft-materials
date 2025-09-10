@@ -1,4 +1,4 @@
-# CREASE-2D Analysis of Small Angle X-ray Scattering Measurements from Supramolecular Gels
+# Machine Learning Based CREASE-2D Analysis of 2D SAXS Profiles to Characterize Anisotropic Nanostructures in Soft Materials
 
 
 ## Description:
