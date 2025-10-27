@@ -1,4 +1,4 @@
-filenames=dir('./*processeddata.txt');
+filenames=dir('./E*.txt');
 filenames={filenames(:).name}';
 numfiles=size(filenames,1);
 for i=6%1:numfiles
@@ -7,3 +7,4 @@ for i=6%1:numfiles
     generate2Dscatteringplot(samplename,'./','./',0);
     generaterawplot(samplename,'./','./');
 end
+
