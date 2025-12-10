@@ -84,4 +84,4 @@ The code generates several output files in the `output/` directory:
 - This is a Python port of the original MATLAB implementation
 - Some parameters may have slightly different default values between versions
 - Output formats are designed to be compatible between MATLAB and Python versions
-
+- Use Ovito to visualize the generated structures using visualize_paritcles.ovito
