@@ -12,7 +12,7 @@ The code simulates the formation of particle-based models of tubular structures 
 - Required packages:
   - numpy
   - scipy
-  - matplotlib (for visualization, if used)
+  - matplotlib 
 
 ## Installation
 
